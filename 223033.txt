@@ -1,0 +1,85 @@
+1. Инсталирав Git и креирав профил.
+
+2. Преименувана ми е во master.
+
+3. Креирав на самиот GitHub, remote репозиториум и тоа иницијално приватен.
+
+4. Креирав директориум (локално репо) со
+mkdir SI_2024_lab1_223033
+командата и го иницијализирав Git внатре со 
+git init
+
+5. Го поврзав со оддалечено репо со командата
+git remote add origin https://github.com/tometefov/SI_2024_lab1_223033.git
+
+6. Креирав README.md датотека со моето име, презиме, индекс потоа две команди:
+git add .
+git commit -m "Initial commit"
+и направив
+git push -u origin master
+
+
+7. Ги симнав во моето локално репо и направив
+git add .
+git commit -m "Add starter code"
+
+8. git push -u origin master
+
+9. Отворив две гранки и тоа секвенцијално со овие команди:
+git checkout -b bug1
+git checkout master 
+git checkout b bug2
+за да се разгранува од master...
+
+10. git checkout bug1
+11. Поправена, наместо '== 0' -> '!= 0'
+git add .
+git commit -m " Fix wrong condition in filterOddLengthStrings"
+12. git checkout bug2
+13. Поправена, наместо '<' -> '>='
+git add .
+git commit -m "Fix wrong condition in makeBigStringFrom"
+14. git checkout bug1
+
+15. nano SILab1Main.java 
+и ги правиме побараните промени
+git add .
+git commit -m "Call method filterOddLengthStrings in main class."
+16. git checkout bug2
+17. nano SILab1Main.java
+и ги правиме побараните промени...
+18.
+git checkout bug1
+git push -u origin bug1
+git checkout bug2 
+git push -u origin bug2
+git checkout master
+git push -u origin master
+19. git checkout master
+20. git merge bug1 
+Спојувањето се случи со Fast-forward стратегија...
+21. git fetch origin
+git checkout bug1
+git push (oti so -u vekje ukazhavme koja granka so koja se sinhronizira)
+git checkout bug2
+git push
+git checkout master
+git push
+22. Направено
+23. Направено
+24. Направено
+25. Направено
+26. Синхронизирано git push --all
+27. Синхронизирано, со помош на --force
+28. 
+touch logs.txt
+git checkout master
+git log >> logs.txt
+git checkout bug1
+git log >> logs.txt
+git checkout bug2
+git log >> logs.txt
+izmegju site logovi, navediv koga pochnuvaat i koga zavrshuvaat i od koja granka se
+
+29. git add .
+git push --all

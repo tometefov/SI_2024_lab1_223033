@@ -1,0 +1,110 @@
+
+MASTER BRANCH
+=================================================================
+commit adeb3488114ab7d7dbf7fd3ba0706a416af43295
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sun Apr 14 21:55:53 2024 +0200
+
+    Final commit
+
+commit 167d0895ae921ab1c943341146a8af012c6277be
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 15:19:21 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit c729e47c95bf6a2ce66e57e156c550b9e3c78814
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 14:24:23 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit debd686e16ff51371d2f1b766757721668ab0b6c
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 14:49:58 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 40e1c5f447bc7a08e60039be913feab78bfb421f
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 14:18:50 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 2caf72d4692a29dd26ecd208cff9cf5f8640d09e
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 13:51:33 2024 +0200
+
+    Add starter code
+
+commit 63f80f730f0752610e0749de988b1fdb8d7ab811
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 13:30:26 2024 +0200
+
+    Initial commit
+=================================================================
+BUG1 BRANCH
+
+
+commit debd686e16ff51371d2f1b766757721668ab0b6c
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 14:49:58 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 40e1c5f447bc7a08e60039be913feab78bfb421f
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 14:18:50 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 2caf72d4692a29dd26ecd208cff9cf5f8640d09e
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 13:51:33 2024 +0200
+
+    Add starter code
+
+commit 63f80f730f0752610e0749de988b1fdb8d7ab811
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 13:30:26 2024 +0200
+
+    Initial commit
+=================================================================
+BUG2 BRANCH
+
+commit 167d0895ae921ab1c943341146a8af012c6277be
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 15:19:21 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit c729e47c95bf6a2ce66e57e156c550b9e3c78814
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 14:24:23 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit debd686e16ff51371d2f1b766757721668ab0b6c
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 14:49:58 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 40e1c5f447bc7a08e60039be913feab78bfb421f
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 14:18:50 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 2caf72d4692a29dd26ecd208cff9cf5f8640d09e
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 13:51:33 2024 +0200
+
+    Add starter code
+
+commit 63f80f730f0752610e0749de988b1fdb8d7ab811
+Author: Tome <tefov.tome@gmail.com>
+Date:   Sat Apr 13 13:30:26 2024 +0200
+
+    Initial commit
+=================================================================
