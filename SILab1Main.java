@@ -15,9 +15,9 @@ public class SILab1Main {
         }
 
 	System.out.println(SILab1_1.filterOddLengthStrings(list));
-	
+	System.out.println(SILab1_2.makeBigStringFrom(list));
 }
-System.out.println(SILab1_2.makeBigStringFrom(list));
+
     
 }
-}
+
